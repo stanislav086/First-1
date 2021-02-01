@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+</head>
+
+<body>
+  <header>
+    <div class="logo"></div>
+    <div class="logo"> app/creation</div>
+    <nav>
+      <a href="#"></a>
+      <a href="#"></a>
+      <a href="#"></a>
+      <a href="#"></a>
+      <a href="#"></a>
+      <a href="#">start</a>
+      <a href="#">services</a>
+      <a href="#">about</a>
+      <a href="#">blog</a>
+      <a href="#">contact us</a>
+    </nav>
+  </header>
+  <section>
+    <main>
+      <h1></h1>
+      <p></p>
+      <button type="button" name="button"></button>
+    </main>
+  <main>
+    <section>
+      <h1>Building an App Without Design Expertise?</h1>
+      <p>I help tech startups design better digital products without hiring a full-time designer</p>
+      <button type="button" name="button">Schedule free consultation</button>
+    </section>
+    <div class="image">
+      <img src="" alt="">
+    </div>
+  </section>
+  </main>
+</body>
+
+</html>
